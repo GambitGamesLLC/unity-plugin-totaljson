@@ -48,7 +48,7 @@ INSTALLATION INSTRUCTIONS
 - Open your unity package manager manifest (YourProject/Packages/manifest.json)
 
 - Add a new entry...\
-  "com.leguar.totaljson": "https://github.com/GambitGamesLLC/TotalJSON.git?path=Assets/Plugins/Package",
+  "com.leguar.totaljson": "https://github.com/GambitGamesLLC/unity-plugin-totaljson.git?path=Assets/Plugins/Package",
 
 - If you want to keep up to date with this repo, then you're done.
 - If you want a specific version, add #v1.0.0 to the end of the URL (replace with the released version you want)
