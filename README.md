@@ -18,29 +18,31 @@ ASSET STORE DESCRIPTION
 ------------------------------
 ![image](https://user-images.githubusercontent.com/20777145/126347379-dc0ab492-4547-4acf-a93f-c6237f38fd64.png)
 
-Fast, light-weight JSON for all your needs. Made for Unity 2019, 2018 and 2017, but Unity 5 is also fully supported. Completely stand-alone, nothing but C# for maximum compatibility.
+Fast, light-weight JSON for all your needs. Works perfectly all the way from Unity 5.2 to Unity 2023 and 6. Completely stand-alone, nothing but C# for maximum compatibility and portability.
 
 
 Does all the basic things. Create and modify JSON, parse strings to JSON and turn JSON objects to strings (compact or pretty), serialize objects to JSON and JSON back to objects. But also:
 
 
 Made with Unity and easy usage in mind:
-- You can follow content of JSON objects directly in Unity Editor when application is playing  
-- Complete inline C# documentation of all classes and methods  
-- Very informative exception messages for easy debugging  
+- You can follow content of JSON objects directly in Unity Editor when application is playing
+- Complete inline C# documentation of all classes and methods
+- Very informative exception messages for easy debugging
+
 
 Safe:
-- JSON objects can be set protected to prevent accidental modifying  
-- Strongly typed, you can't accidentally read values in wrong format  
-- Prevents creating circular JSON structures  
+- JSON objects can be set protected to prevent accidental modifying
+- Strongly typed, you can't accidentally read values in wrong format
+- Prevents creating circular JSON structures
 
 
 Going the extra mile:
-- Supports all different C# number types, but also numbers of any size outside long/double range  
-- Debug IDs helps to track down exception sources even when stack trace is not available  
-- Multiple examples, also real-life data examples  
-- Keeps key/value pairs of JSON object in order  
-- API documentation also [available online](http://www.leguar.com/unity/totaljson/apidoc/1.6/JSON.php)
+- Supports all different C# number types, but also numbers of any size outside long/double range
+- No limits how deep JSON objects can be
+- Debug IDs helps to track down exception sources even when stack trace is not available
+- Multiple examples, also real-life data examples
+- Keeps key/value pairs of JSON object in order
+- API documentation also available online
 
 ------------------------------
 INSTALLATION INSTRUCTIONS
