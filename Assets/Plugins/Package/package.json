@@ -1,0 +1,19 @@
+{
+  "name": "com.leguar.totaljson",
+  "version": "2.3.0",
+  "displayName": "Total JSON",
+  "description": "This is a copy of the TotalJSON plugin from the Unity Asset Store",
+  "unity": "2021.1",
+  "documentationUrl": "https://github.com/GambitGamesLLC/unity-plugin-totaljson",
+  "changelogUrl": "https://github.com/GambitGamesLLC/unity-plugin-totaljson",
+  "licensesUrl": "https://github.com/GambitGamesLLC/unity-plugin-totaljson",
+ "keywords": [
+    "TotalJSON",
+	"JSON"
+  ],
+  "author": {
+    "name": "Leguar",
+    "email": "gambitgamesllc@gmail.com",
+    "url": "https://assetstore.unity.com/packages/tools/input-management/total-json-130344"
+  }
+}
